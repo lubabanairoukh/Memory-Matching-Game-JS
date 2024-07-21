@@ -38,7 +38,7 @@ This project is a memory matching game built using JavaScript and the DOM. The g
 ## Installation
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-username/Memory-Matching-Game-JS.git
+   git clone https://github.com/lubabanairoukh/Memory-Matching-Game-JS.git
    cd Memory-Matching-Game-JS
    ```
 
@@ -59,5 +59,4 @@ This project is a memory matching game built using JavaScript and the DOM. The g
 3. **End of Game:**
    - View your score and leaderboard position.
    - Restart the game if desired.
->>>>>>> edd0e315bf9735bcc551e51b2dfe442db86b91f3
 
